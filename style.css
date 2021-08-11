@@ -1,0 +1,21 @@
+body {
+  font-family: "Madrone Std", "Glacial Indifference", sans-serif;
+
+  color: #545454;
+}
+
+.row {
+  padding: 5px;
+}
+
+.custom {
+  width: 67px !important;
+  background-color: #c8c4bd;
+}
+
+#footerLogo {
+  border-top: 2.44px solid #545454;
+
+  padding-top: 10px;
+  margin-top: 20px;
+}

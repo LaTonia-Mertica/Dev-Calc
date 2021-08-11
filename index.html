@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="images/lm-alt-logo.png"
+      type="image/x-icon"
+    />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <title>DEV CALC</title>
+  </head>
+
+  <body>
+    <main class="container" style="text-align: center;">
+      <div class="row"></div>
+
+      <div id="screen">
+        <h1 id="leadingZero" style="size: 125%;">0</h1>
+      </div>
+
+      <div class="row"></div>
+      <div class="col">
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="clearButtonPressed()"
+        >
+          &#9114;
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="plusMinusButtonPressed()"
+        >
+          &#177;
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="percentButtonPressed()"
+        >
+          &percnt;
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed('/')"
+        >
+          &#47;
+        </button>
+      </div>
+
+      <div class="row"></div>
+      <div class="col">
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(7)"
+        >
+          7
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(8)"
+        >
+          8
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(9)"
+        >
+          9
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed('*')"
+        >
+          &times;
+        </button>
+      </div>
+
+      <div class="row"></div>
+      <div class="col">
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(4)"
+        >
+          4
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(5)"
+        >
+          5
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(6)"
+        >
+          6
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed('-')"
+        >
+          &minus;
+        </button>
+      </div>
+
+      <div class="row"></div>
+      <div class="col">
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(1)"
+        >
+          1
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(2)"
+        >
+          2
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(3)"
+        >
+          3
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed('+')"
+        >
+          &plus;
+        </button>
+      </div>
+
+      <div class="row"></div>
+      <div class="col">
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed(0)"
+        >
+          0
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="numButtonPressed('.')"
+        >
+          &centerdot;
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          style="visibility: hidden;"
+        >
+          &#32;
+        </button>
+        <button
+          class="btn btn-info custom"
+          input
+          type="button"
+          onclick="equalButtonPressed()"
+        >
+          &equals;
+        </button>
+      </div>
+    </main>
+  </body>
+
+  <div class="col">
+    <footer class="text-center">
+      <img
+        id="footerLogo"
+        style="width: 25%;"
+        src="images/lm-dev-logo.png"
+        alt="La'Tonia Mertica 'Comms & Creas' logo"
+      />
+    </footer>
+  </div>
+
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+    crossorigin="anonymous"
+  ></script>
+
+  <script src="index.js"></script>
+</html>
