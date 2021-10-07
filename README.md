@@ -23,3 +23,7 @@ Far from perfect, and likely destined to never truly achieve the level and statu
 <br>
 <br>
 Still, it involves vigorous exceptional communication - and, coding is now part of my fierce means to say some things.
+<br>
+<br>
+
+<p align="center"><img src="images/latoniamertica-gawk.jpg" width="100%" /title="Selfie by La'Tonia Mertica" ></p>
