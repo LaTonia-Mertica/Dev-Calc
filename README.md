@@ -10,7 +10,6 @@
 
 ## MY BACK STORY
 <br>
-<br>
 I went into code because I saw code as a gateway to better options, informed risk-taking, and outcomes. 
 <br>
 <br>
