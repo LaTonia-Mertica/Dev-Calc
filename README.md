@@ -1,6 +1,6 @@
 # Dev-Calc
 
-###### <a href="https://www.latoniamertica.dev/creas-crave-capstone/" target="_blank">visit full stack javascript capstone by La'Tonia Mertica</a>
+###### <a href="https://www.latoniamertica.dev/Dev-Calc/" target="_blank">visit Dev Calc by La'Tonia Mertica</a>
 <br>
 
 
