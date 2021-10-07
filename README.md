@@ -1,7 +1,15 @@
 # Dev-Calc
 
+###### <a href="https://www.latoniamertica.dev/creas-crave-capstone/" target="_blank">visit full stack javascript capstone by La'Tonia Mertica</a>
+<br>
 
-MY BACK STORY
+
+FIRST NAME: La'Tonia Mertica
+###### note_3: pronounced *luh tone yuh merr treece*
+<br>
+
+## MY BACK STORY
+<br>
 I went into code because I saw code as a gateway to better options, informed risk-taking, and outcomes. 
 
 My fantasies on a better life are nothing special. A better life, life quality, and sense of self. A life during which I create opportunities for the substance of my existence. A life I enthusiastically own. A life that welcomes, entertains, and bows to parts of myself I've envisioned embracing for too long - focusing on non-me things out of a sense of duty, and obligation, and misaligned timing. Nothing special. Still, my own, and true difference.  
