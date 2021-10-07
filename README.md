@@ -4,8 +4,8 @@
 <br>
 
 
-FIRST NAME: La'Tonia Mertica
-###### note_3: pronounced *luh tone yuh merr treece*
+##### FIRST NAME: La'Tonia Mertica
+###### note_1: pronounced *luh tone yuh merr treece*
 <br>
 
 ## MY BACK STORY
