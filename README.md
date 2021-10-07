@@ -1,4 +1,4 @@
-# Dev-Calc
+# Dev Calc
 
 ###### <a href="https://www.latoniamertica.dev/Dev-Calc/" target="_blank">visit Dev Calc by La'Tonia Mertica</a>
 <br>
