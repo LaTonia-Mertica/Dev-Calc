@@ -26,4 +26,4 @@ Still, it involves vigorous exceptional communication - and, coding is now part 
 <br>
 <br>
 
-<p align="center"><img src="images/latoniamertica-gawk.jpg" width="100%" /title="Selfie by La'Tonia Mertica" ></p>
+<p align="center"><img src="images/latoniamertica-gawk.png" width="100%" /title="Selfie by La'Tonia Mertica" ></p>
