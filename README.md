@@ -1,4 +1,14 @@
 # Dev Calc
+*solid exercise for buttons, innerHTML, try/catch error, setTimeout, adding a leading zero, working with numbers and symbols, and custom fonts ...*
+
+**HOW WORKS**
+<br>
+press number and operator keys to calculate, and back space to delete 
+
+**NEXT STEP**
+<br>
+design calculator body around buttons for full calculator presentation 
+
 
 ###### <a href="https://www.latoniamertica.dev/Dev-Calc/" target="_blank">visit Dev Calc by La'Tonia Mertica</a>
 <br>
