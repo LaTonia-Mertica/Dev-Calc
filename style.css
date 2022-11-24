@@ -8,6 +8,11 @@ body {
   padding: 5px;
 }
 
+#leadingZero {
+  font-size: 425%;
+  font-family: "Abril Fatface";
+}
+
 .custom {
   width: 67px !important;
   background-color: #c8c4bd;
