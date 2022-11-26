@@ -1,7 +1,11 @@
 body {
-  font-family: "Madrone Std", "Glacial Indifference", sans-serif;
-
   color: #545454;
+}
+
+main {
+  text-align: center;
+  font-size: 250%;
+  font-family: "Abril Fatface";
 }
 
 .row {
@@ -9,11 +13,13 @@ body {
 }
 
 #leadingZero {
-  font-size: 425%;
+  font-size: 325%;
   font-family: "Abril Fatface";
 }
 
 .custom {
+  font-size: 100%;
+  font-family: "Abril Fatface";
   width: 67px !important;
   background-color: #c8c4bd;
 }
